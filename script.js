@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Hedef doğum günü tarihini belirle (Yıl-Ay-Gün Saat:Dakika:Saniye)
-    var birthday = new Date("2024-04-15T00:00:00");
+    var birthday = new Date("2024-04-16T00:00:00");
     
     // Geri sayımı hesapla ve görüntüle
     function displayCountdown() {
